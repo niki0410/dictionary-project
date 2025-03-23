@@ -10,7 +10,10 @@
   text-align: center;
   margin: 30px 0;
 }
-
+.App {
+  max-width: 960px;
+  margin:0 auto;
+}
 body{
   background: #f9f8fe;
 }
