@@ -11,7 +11,7 @@ function App() {
         <img src={logo} className="img-fluid appLogo" alt="logo" />
       </header>
       <main>
-        <Dictionary/>
+        <Dictionary defaultKeyword="book" />
       </main>
       <footer className='appFooter'><small>Coded by SheCodes</small></footer>
     </div>
